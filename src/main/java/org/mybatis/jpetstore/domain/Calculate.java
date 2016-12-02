@@ -45,3 +45,17 @@ public void hello()
 //Project: JpetStore
 //Tools used: Jenkins, SonarQube, Rundeck
 //----------------------------------------------------
+//----------------------------------------------------
+//Comment added on date:Fri Dec  2 11:34:52 UTC 2016
+//Author: Andrew Woods, Apoorva Rao
+//Description: Adding coments for documentation
+//Project: JpetStore
+//Tools used: Jenkins, SonarQube, Rundeck
+//----------------------------------------------------
+//----------------------------------------------------
+//Comment added on date:Fri Dec  2 11:35:25 UTC 2016
+//Author: Andrew Woods, Apoorva Rao
+//Description: Adding coments for documentation
+//Project: JpetStore
+//Tools used: Jenkins, SonarQube, Rundeck
+//----------------------------------------------------
