@@ -3,7 +3,7 @@ package org.mybatis.jpetstore.domain;
 import java.io.Serializable;
 import java.math.BigDecimal;
 
-public class ItemCalculate implements Serializable {
+public class Calculate implements Serializable {
 
   private String itemId;
   private String productId;
@@ -36,6 +36,13 @@ public class ItemCalculate implements Serializable {
 //----------------------------------------------------
 //----------------------------------------------------
 //Comment added on date:Fri Dec  2 09:45:31 UTC 2016
+//Author: Andrew Woods, Apoorva Rao
+//Description: Adding coments for documentation
+//Project: JpetStore
+//Tools used: Jenkins, SonarQube, Rundeck
+//----------------------------------------------------
+//----------------------------------------------------
+//Comment added on date:Fri Dec  2 09:46:51 UTC 2016
 //Author: Andrew Woods, Apoorva Rao
 //Description: Adding coments for documentation
 //Project: JpetStore
