@@ -19,10 +19,6 @@ public class ItemCalculate implements Serializable {
   private Product product;
   private int quantity;
 
-  public String CalculateTotal(int quantity, BigDecimal unitCost) {
-    return quantity*unitCost;
-  }
-
 
 }
 //Comment added on date:Fri Dec  2 09:27:04 UTC 2016
@@ -33,6 +29,13 @@ public class ItemCalculate implements Serializable {
 //Comment added on date:Fri Dec  2 09:43:21 UTC 2016
 //----------------------------------------------------
 //Comment added on date:Fri Dec  2 09:44:14 UTC 2016
+//Author: Andrew Woods, Apoorva Rao
+//Description: Adding coments for documentation
+//Project: JpetStore
+//Tools used: Jenkins, SonarQube, Rundeck
+//----------------------------------------------------
+//----------------------------------------------------
+//Comment added on date:Fri Dec  2 09:45:31 UTC 2016
 //Author: Andrew Woods, Apoorva Rao
 //Description: Adding coments for documentation
 //Project: JpetStore
