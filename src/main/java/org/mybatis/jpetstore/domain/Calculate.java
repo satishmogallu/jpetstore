@@ -31,3 +31,10 @@ public class ItemCalculate implements Serializable {
 //Comment added on date:Fri Dec  2 09:32:20 UTC 2016
 //Comment added on date:Fri Dec  2 09:35:03 UTC 2016
 //Comment added on date:Fri Dec  2 09:43:21 UTC 2016
+//----------------------------------------------------
+//Comment added on date:Fri Dec  2 09:44:14 UTC 2016
+//Author: Andrew Woods, Apoorva Rao
+//Description: Adding coments for documentation
+//Project: JpetStore
+//Tools used: Jenkins, SonarQube, Rundeck
+//----------------------------------------------------
