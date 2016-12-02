@@ -7,7 +7,11 @@ public class Calculate implements Serializable {
 
 public void hello()
 {
-	System.out.println("Hello World");
+System.out.println("Hello World");
+System.out.println('Making a new Entry at Fri Dec  2 12:48:01 UTC 2016');
+System.out.println(Fri Dec  2 12:48:01 UTC 2016);
+System.out.println('Making a new Entry at Fri Dec  2 12:47:20 UTC 2016');
+
 }
 
 }
