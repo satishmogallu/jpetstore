@@ -5,20 +5,10 @@ import java.math.BigDecimal;
 
 public class Calculate implements Serializable {
 
-  private String itemId;
-  private String productId;
-  private BigDecimal listPrice;
-  private BigDecimal unitCost;
-  private int supplierId;
-  private String status;
-  private String attribute1;
-  private String attribute2;
-  private String attribute3;
-  private String attribute4;
-  private String attribute5;
-  private Product product;
-  private int quantity;
-
+public void hello()
+{
+	System.out.println("Hello World");
+}
 
 }
 //Comment added on date:Fri Dec  2 09:27:04 UTC 2016
@@ -43,6 +33,13 @@ public class Calculate implements Serializable {
 //----------------------------------------------------
 //----------------------------------------------------
 //Comment added on date:Fri Dec  2 09:46:51 UTC 2016
+//Author: Andrew Woods, Apoorva Rao
+//Description: Adding coments for documentation
+//Project: JpetStore
+//Tools used: Jenkins, SonarQube, Rundeck
+//----------------------------------------------------
+//----------------------------------------------------
+//Comment added on date:Fri Dec  2 09:55:14 UTC 2016
 //Author: Andrew Woods, Apoorva Rao
 //Description: Adding coments for documentation
 //Project: JpetStore
