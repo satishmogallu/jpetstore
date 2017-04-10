@@ -23,6 +23,7 @@ import net.sourceforge.stripes.validation.Validate;
  * @author Eduardo Macarron
  *
  */
+/*test - apoorva */
 public class Account implements Serializable {
 
   private static final long serialVersionUID = 8751282105532159742L;
