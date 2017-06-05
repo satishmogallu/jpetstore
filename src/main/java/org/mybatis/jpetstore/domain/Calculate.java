@@ -804,3 +804,10 @@ System.out.println("Fri Dec  2 12:52:58 UTC 2016");
 //Project: JpetStore
 //Tools used: Jenkins, SonarQube, Rundeck
 //----------------------------------------------------
+//----------------------------------------------------
+//Comment added on date:Mon Jun  5 11:00:29 UTC 2017
+//Author: Andrew Woods, Apoorva Rao
+//Description: Adding coments for documentation
+//Project: JpetStore
+//Tools used: Jenkins, SonarQube, Rundeck
+//----------------------------------------------------
