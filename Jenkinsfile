@@ -7,6 +7,7 @@ pipeline{
  					 git 'https://github.com/Wamiqy2k/jpetstore.git'
   					 sh 'mvn -B clean install'
 				}
+				echo "Finished Building"
 			}
 		}
 	}
